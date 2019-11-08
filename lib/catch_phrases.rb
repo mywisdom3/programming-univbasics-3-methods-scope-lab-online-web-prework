@@ -8,5 +8,6 @@ def toadstool
   puts phrase
 end
 def link
+  phrase = 
 
   
