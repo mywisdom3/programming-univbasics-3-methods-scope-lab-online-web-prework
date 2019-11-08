@@ -4,8 +4,9 @@ def mario
 end
 
 def toadstool
+  status = 
   puts status
-endase
+  endase
     end
 
 
